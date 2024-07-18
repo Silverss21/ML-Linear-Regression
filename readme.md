@@ -50,10 +50,10 @@ To run the code, follow these steps:
 
 1.  Ensure Python and necessary libraries (`pandas`, `numpy`, `scikit-learn`) are installed.
 2.  Download the `breast-cancer.csv` dataset and place it in the same directory as the script.
-3.  Execute the script `breast_cancer_prediction.py`.
+3.  Execute the script `main.py`.
 
 ```
-python breast_cancer_prediction.py
+python main.py
 ```
 
 ## Requirements
